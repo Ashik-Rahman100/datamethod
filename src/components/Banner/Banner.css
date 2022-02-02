@@ -1,0 +1,13 @@
+.slide {
+  margin-top: 50px;
+}
+
+.banner-btn {
+  background-color: #00adb5;
+  color: #fff;
+  width: 182px;
+  height: 53px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+}
